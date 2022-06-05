@@ -103,7 +103,7 @@ textarea {
     top: calc(100% + 1.5rem);
     height: 5px;
     width: 3rem;
-    background: #00D6AB;
+    background: #eb602a;
     left: 50%;
     transform: translateX(-50%);
     border-radius: 5px; }
@@ -155,12 +155,12 @@ textarea {
     padding: 1.5rem 5rem;
     font-size: 1.6rem; }
   .btn--theme {
-    background: #00D6AB;
+    background: #eb602a;
     color: #fff; }
   .btn--theme-inv {
-    color: #00D6AB;
+    color: #eb602a;
     background: #fff;
-    border: 2px solid #00D6AB;
+    border: 2px solid #eb602a;
     box-shadow: none;
     padding: calc(1.5rem - 2px) calc(5rem - 2px); }
 
@@ -185,7 +185,7 @@ textarea {
 
 .home-hero {
   color: #fff;
-  background: linear-gradient(to right, rgba(0, 214, 171, 0.8), rgba(0, 214, 171, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(235, 96, 42, 0.8), rgba(235, 96, 42, 0.8)), url(../../assets/svg/common-bg.svg);
   background-position: center;
   height: 100vh;
   min-height: 80rem;
@@ -277,7 +277,7 @@ textarea {
     .about__content-details-para a {
       text-decoration: underline;
       font-weight: 700;
-      color: #00D6AB;
+      color: #eb602a;
       margin: 0 3px; }
 
 .projects__row {
@@ -328,7 +328,7 @@ textarea {
           font-size: 1.7rem; } }
 
 .contact {
-  background: linear-gradient(to right, rgba(0, 214, 171, 0.8), rgba(0, 214, 171, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(235, 96, 42, 0.8), rgba(235, 96, 42, 0.8)), url(../../assets/svg/common-bg.svg);
   background-size: cover;
   background-position: center; }
   .contact__form-container {
@@ -409,7 +409,7 @@ textarea {
 
 .project-cs-hero {
   color: #fff;
-  background: linear-gradient(to right, rgba(0, 214, 171, 0.8), rgba(0, 214, 171, 0.8)), url(../../assets/svg/common-bg.svg);
+  background: linear-gradient(to right, rgba(235, 96, 42, 0.8), rgba(235, 96, 42, 0.8)), url(../../assets/svg/common-bg.svg);
   background-size: cover;
   background-position: center;
   position: relative; }
@@ -520,14 +520,14 @@ textarea {
     color: #333;
     transition: color .3s; }
     .header__logo-container:hover {
-      color: #00D6AB; }
+      color: #eb602a; }
   .header__logo-img-cont {
     width: 5rem;
     height: 5rem;
     border-radius: 50px;
     overflow: hidden;
     margin-right: 1.5rem;
-    background: #00D6AB; }
+    background: #eb602a; }
     @media only screen and (max-width: 56.25em) {
       .header__logo-img-cont {
         width: 4.5rem;
@@ -559,7 +559,7 @@ textarea {
     font-weight: 700;
     transition: color .3s; }
     .header__link:hover {
-      color: #00D6AB; }
+      color: #eb602a; }
     @media only screen and (max-width: 56.25em) {
       .header__link {
         padding: 3rem 1.8rem;
@@ -606,7 +606,7 @@ textarea {
     letter-spacing: 2px;
     transition: color .3s; }
     .header__sm-menu-link a:hover {
-      color: #00D6AB; }
+      color: #eb602a; }
   .header__sm-menu-link:first-child a {
     border-top: 1px solid #eee; }
   .header__sm-menu-link-last {
